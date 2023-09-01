@@ -58,6 +58,25 @@ a:hover {
     color: #fff; 
     background-color: #007bff; 
 }
-.avanc{
+ul{
     text-align: center;
+}
+
+.botao-voltar {
+    text-decoration: none;
+    color: #007bff;
+    border: 1px solid #007bff;
+    padding: 5px 10px;
+    border-radius: 4px;
+    transition: color 0.3s, background-color 0.3s;
+}
+
+/* Estilo para o botão de voltar em estado hover (mouse em cima) */
+.botao-voltar:hover {
+    color: #fff;
+    background-color: #007bff;
+}
+.preco {
+    font-weight: bold; 
+    color: #000000; 
 }
