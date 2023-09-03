@@ -1,0 +1,95 @@
+body {
+    background-image: url(parede.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+
+}
+
+
+header {
+    background-color: #b9a42a;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 20px;
+}
+
+.carro {
+    background-color: rgb(0, 0, 0);
+    border: 1px solid #c48d16;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);
+    max-width: 300px;
+}
+
+.carro img {
+    max-width: 100%;
+    height: auto;
+}
+
+.carro h2 {
+    margin: 10px 0;
+}
+
+.carro p {
+    font-size: 14px;
+}
+a{
+    text-decoration: none;
+    color: #ffffff;
+    border: 1px solid #44494e; 
+    padding: 5px 10px; 
+    border-radius: 4px; 
+    transition: color 0.3s, background-color 0.3s; 
+}
+
+a:hover {
+    color: #ffffff; 
+    background-color: #c09624;
+     
+}
+ul{
+    text-align: center;
+}
+.preco {
+    font-weight: bold; 
+    color: #ffffff; 
+}
+/* Estilo para a classe .carro */
+.carro {
+    background-color: rgb(160, 115, 31);
+    border: 1px solid #8f6023;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);
+    max-width: 300px;
+    transition: transform 0.3s ease;
+}
+
+/* Estilo para a classe .carro quando selecionado */
+.carro:hover {
+    transform: scale(1.1);
+}
+
+/* Estilo para a cor de fundo quando um .carro é selecionado */
+.carro:active {
+    background-color: #976f25; /* Altere para a cor de fundo desejada */
+}
+.pag2{
+    background-color: #976f25;
+}
