@@ -9,8 +9,9 @@
 ## introdução
    quando clicamos nesse botão
    ![image info](img/botao.png)
+
    aparece a primeira pagina do site que é a classe de antigos. 
-  ![image info](img/pag1.png)
+  ![image info](img/pag2.png)
    atualmente tem três carros no momento chevette, fusca e gol quadrado, em breve irei adicionar mais,
    e quando selecionamos um dos carros.
 
