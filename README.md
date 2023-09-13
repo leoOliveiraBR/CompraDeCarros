@@ -1,17 +1,28 @@
 # indice
-
+   - [Projeto - Loja de carros](#projeto---aprendendo-a-escrever-um-readme)  
+   - [Descrição](#descris%C3%A3o)  
+   - [Introdução](#introdu%C3%A7%C3%A3o)  
+   - [Funcionalidades](#funcionalidades)  
+   - [Tecnologias Utilizadas](#tecnologias-utilizadas)  
+   - [Fontes Consultadas](#fontes-consultadas)  
+   - [Autores](#autores)  
 # simulação de uma Loja de carros
 
 ![image info](img/pag1.png)
 
 ## descrisão 
-   bem-vindo(a) essa página tem o intuito de simular uma compra de carros de todos os tipos de classe.
+   esse site está sendo desenvolvido para simular compra de veiculos.
 ## introdução
-   quando clicamos nesse botão
-   ![image info](img/botao.png)
-
-   aparece a primeira pagina do site que é a classe de antigos. 
-  ![image info](img/pag2.png)
-   atualmente tem três carros no momento chevette, fusca e gol quadrado, em breve irei adicionar mais,
-   e quando selecionamos um dos carros.
-
+    estou criando um site cujo o objetivo é simular uma página de compra de veiculos
+    tem varias opções de carros desde de carros simples a super carros.
+## funcionalidades
+   °vender carros
+## tecnologias utilizadas
+   °Html
+   °Css
+## fontes consultadas
+   °Google
+   °Youtube
+   °ChatGPT
+## autores
+    °Leonardo De Oliveira
