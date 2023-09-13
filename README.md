@@ -12,6 +12,8 @@
 
 ## descrisão 
    esse site está sendo desenvolvido para simular compra de veiculos.
+   <img src="img/acesse.gif" width="50%">
+
 ## introdução
     estou criando um site cujo o objetivo é simular uma página de compra de veiculos
     tem varias opções de carros desde de carros simples a super carros.
