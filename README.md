@@ -23,8 +23,8 @@
    °Html
    °Css
 ## fontes consultadas
-   °Google
-   °Youtube
-   °ChatGPT
+   °Google  
+   °Youtube 
+   °ChatGPT 
 ## autores
-    °Leonardo De Oliveira
+    °Leonardo De Oliveira  
