@@ -15,8 +15,10 @@
    <img src="img/acesse.gif" width="50%">
 
 ## introdução
-    estou criando um site cujo o objetivo é simular uma página de compra de veiculos
-    tem varias opções de carros desde de carros simples a super carros.
+    estou criando um site cujo o objetivo é simular um site de compra de veiculos
+    tem varias opções de veiculos.
+   <img src="img/videoTOP.gif" width="90%">
+   
 ## funcionalidades
    °vender carros
 ## tecnologias utilizadas
