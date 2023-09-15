@@ -19,8 +19,17 @@
     tem varias opções de veiculos.
    <img src="img/videoTOP.gif" width="90%">
    
+
+   quando clicamos em um dos veiculos aparece uma descrição bem detalhada com todas as informações e fotos importando do veiculo (a estilização está em fase beta).
+   <img src="img/paginaDOScar.png" width="90%">
+
+
+
+   ainda está em deselvovimento, mas a página ja tem uma aréa de cadastro(que ainda não está disponivel para uso).
+   <img src="img/cadastro.png" width="90%">
+   
 ## funcionalidades
-   °vender carros
+   °simular uma vender venda de veiculos
 ## tecnologias utilizadas
    °Html
    °Css

@@ -6,7 +6,7 @@ body {
 }
 
 header {
-    background-color: #007bff;
+    background-color: #3b444d;
     color: #fff;
     text-align: center;
     padding: 20px 0;
@@ -43,7 +43,7 @@ input[type="tel"] {
 }
 
 button {
-    background-color: #007bff;
+    background-color: #80868d;
     color: #fff;
     padding: 10px 20px;
     border: none;
