@@ -31,8 +31,8 @@ estou criando um site cujo o objetivo é simular um site de compra de veiculos t
    °simular um site de venda veiculos
 
 ## 📌 Tecnologias Utilizadas
-   °Html 
-   °Css  
+   °HTML5    
+   °CCS3    
 
 ## 🔎 Fontes consultadas
    [Mozilla](https://developer.mozilla.org/pt-BR/docs/Learn/CSS)  
