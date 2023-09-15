@@ -25,6 +25,6 @@
 ## fontes consultadas
    °Google  
    °Youtube 
-   °ChatGPT 
+   °ChatGPT    
 ## autores
     °Leonardo De Oliveira  
