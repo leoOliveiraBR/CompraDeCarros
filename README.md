@@ -18,8 +18,7 @@
    <img src="img/acesse.gif" width="50%">
 
 # 📃 Introdução
-    estou criando um site cujo o objetivo é simular um site de compra de veiculos
-    tem varias opções de veiculos.
+estou criando um site cujo o objetivo é simular um site de compra de veiculos tem varias opções de veiculos.
    <img src="img/videoTOP.gif" width="90%">
    
    quando clicamos em um dos veiculos aparece uma descrição bem detalhada com todas as informações e fotos importando do veiculo (a estilização está em fase beta).
@@ -32,12 +31,12 @@
    °simular um site de venda veiculos
 
 ## 📌 Tecnologias Utilizadas
-   °Html
-   °Css
+   °Html 
+   °Css  
 
 ## 🔎 Fontes consultadas
    [Mozilla](https://developer.mozilla.org/pt-BR/docs/Learn/CSS)  
    [Alura](https://www.alura.com.br/artigos/escrever-bom-readme)
    [repositorio_gifhub](https://github.com/hideraldus13/github-emoji)  
 ## ✒️ Autores
-    °Leonardo De Oliveira  
+[Leonardo De Oliveira](https://github.com/leoOliveiraBR)  
