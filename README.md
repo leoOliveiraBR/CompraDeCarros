@@ -29,13 +29,12 @@
    <img src="img/cadastro.png" width="90%">
    
 ## funcionalidades
-   °simular uma vender venda de veiculos
+   °simular uma venda de veiculos
 ## tecnologias utilizadas
    °Html
    °Css
 ## fontes consultadas
-   °Google  
-   °Youtube 
-   °ChatGPT    
+   [Mozilla](https://developer.mozilla.org/pt-BR/docs/Learn/CSS)  
+   [Alura](https://www.alura.com.br/artigos/escrever-bom-readme)      
 ## autores
     °Leonardo De Oliveira  
